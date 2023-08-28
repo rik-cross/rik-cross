@@ -1,1 +1,1 @@
-Hi, I'm Rik -- Director of Curriculum, Training and Research at the Raspberry Pi Foundation. See below for an overview of some things I've been working on, or go to [my personal website](https://rikcross.net) for more in-depth information!
+Hi, I'm Rik -- Director of Curriculum, Training and Research at the Raspberry Pi Foundation. My main interests are education and game development, and I particularly enjoy projects that combine these two interests. See below for an overview of some things I've been working on.
